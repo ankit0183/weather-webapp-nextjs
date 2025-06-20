@@ -83,8 +83,8 @@ This project uses the OpenWeather API for weather data. Ensure you comply with O
 ## Screenshots
 
 - ![Screenshot 1](https://github.com/user-attachments/assets/797bb152-e998-423b-9d15-bad282541ed5)
-- ![Screenshot 2](public/image/s1.png)
-- ![Screenshot 3](public/image/s2.png)
+- ![Screenshot 2](src/public/image/s1.png)
+- ![Screenshot 3](src/public/image/s2.png)
 ---
 
 Created with ❤️ by Ankit kanojiya
